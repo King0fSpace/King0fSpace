@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing to iOS projects
 - 🌱 I’m currently learning ARKit
 - 💞️ I’m looking to collaborate on any iOS projects
-- 📫 How to reach me longkimle@hotmail.com
+- 📫 How to reach me long@longkle.com
 
 <!---
 LongLe/King0fSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
